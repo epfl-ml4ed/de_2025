@@ -22,13 +22,5 @@ Through the following steps, you will log in to Noto, copy the right files you n
 8. If it asks you to "Select Kernel", please select the `Python3` Kernel from the dropdown menu. You can also select a kernel by clicking on the top right corner of the notebook.  
 ![image](https://github.com/epfl-ml4ed/jdpls-tutorial/assets/72170466/13a6f88d-e70c-4290-91fa-b501fbe7e74c)
 
-You're all set! Run through the `student_modeling_demo.ipynb` notebook The solution with all the example code is included in the `student_modeling_demo_solution.ipynb` notebook.
-
-### Updating new material
-On the day of the lecture, you can complete the following steps to have all of the relevant material.
-
-Once you have your repository set up as per steps 1 through 8 above, click on the git symbol in the left column. Then, click on the first cloud symbol on top! This should let you recieve new files that we've added for the lecture.  
-
-![image](https://github.com/epfl-ml4ed/jdpls-tutorial/assets/72170466/0bae152f-498a-4632-8ff2-b088057bb777)
-
+You're all set! 
 
