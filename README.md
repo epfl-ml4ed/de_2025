@@ -1,4 +1,4 @@
-# JDPLS Tutorial: Student Modeling
+# Digital Education: Student Modeling
 Student Modeling (BKT) lecture for the Digital Education course on November 11th, 2025.  
 Instructors: Prof. Tanja Käser, Marta Knežević from the ML4ED Lab  
 
